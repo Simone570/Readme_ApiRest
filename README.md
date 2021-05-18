@@ -107,4 +107,4 @@ http.createServer(function(req,res){ "Comando per inizializzare il server, al su
  
  #DESCRIZIONE STRUMENTI/TECNOLOGIE
  
- Abbiamo utilizzato phpstorm per la parte di programmazione e Xampp perchè integrava il server e mysql per i database
+ Abbiamo utilizzato phpstorm per la parte di programmazione e Xampp perchè integrava il server Apache.
