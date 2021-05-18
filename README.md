@@ -1,3 +1,4 @@
+
 # API REST 
 
 Prima di poter parlare di cosa sono le API REST, è necessario fare una breve parentesi sulle  parole: REST ed API. 
@@ -98,7 +99,12 @@ http.createServer(function(req,res){ "Comando per inizializzare il server, al su
  
 }).listen(5000);"Porta d'ascolto"
  
+ #DESCRIZIONE MATERIALI UTILIZZATI
  
+ Come materiali utilizzati abbiamo usato per la presentazione "Powerpoint"
  
+[PresentazionAPI_REST.pptx](https://github.com/Simone570/Readme_ApiRest/files/6500410/PresentazionAPI_REST.pptx)
  
-
+ #DESCRIZIONE STRUMENTI/TECNOLOGIE
+ 
+ Abbiamo utilizzato phpstorm per la parte di programmazione e Xampp perchè integrava il server e mysql per i database
