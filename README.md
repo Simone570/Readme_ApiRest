@@ -1,6 +1,6 @@
 
 # API REST
-Le API REST quindi, non è altro che un’API che segue i principi REST e utilizza un protocollo HTTP o HTTPS(che però richiede un certificato), per scambiare dati, che possono essere di diverso formato: XML, JSON e YAML, una architettura API normale(SOAP) utilizza solamente i dati di tipo XML. Le API REST offrono una maggior flessibilità in termini di comunicazione dati, ossia che è in grado di servire più applicazioni client o server che comunicano usando diversi formati 
+Le API REST non sono altro che API che seguono i principi REST e utilizzano un protocollo HTTP o HTTPS(che però richiede un certificato), per scambiare dati, che possono essere di diverso formato: XML, JSON e YAML, una architettura API normale(SOAP) utilizza solamente i dati di tipo XML. Le API REST offrono una maggior flessibilità in termini di comunicazione dati, ossia che è in grado di servire più applicazioni client o server che comunicano usando diversi formati 
 Per essere considerata RESTful, deve rispettare i criteri indicati di seguito:
 
 - Un sistema su più livelli che organizza ogni tipo di server (ad esempio quelli responsabili della sicurezza, del bilanciamento del carico, ecc.) che si occupa di recuperare le informazioni richieste in gerarchie, invisibile al client.
